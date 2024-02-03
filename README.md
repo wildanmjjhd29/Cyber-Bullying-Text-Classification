@@ -16,3 +16,11 @@ Pada gambar plot model di atas, kita dapat melihat arsitektur model yang digunak
 
 
 Gambar di atas menunjukkan hasil pengujian model pada teks uji untuk mengevaluasi keakuratannya dalam membedakan antara kelas teks.
+
+---
+
+<P align='center'>
+  <i>
+    Catatan: Proyek ini dibuat untuk tujuan pembelajaran dan portofolio. Selamat bersenang-senang!
+  </i>
+</P>
