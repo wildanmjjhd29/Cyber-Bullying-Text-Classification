@@ -11,7 +11,8 @@ Pada gambar plot model di atas, kita dapat melihat arsitektur model yang digunak
 
 ## Test Model
 <p align='center'>
-  <img src="https://github.com/wildanmjjhd29/Cyber-Bullying-Text-Classification/blob/main/test%20model.png" alt="Smiley face" width="600px">
+  <img src="https://github.com/wildanmjjhd29/Cyber-Bullying-Text-Classification/blob/main/test%20model.png" alt="Smiley face" width="600px"> <br/>
+  <a href='https://youtube.com/shorts/oPTxRWeZW6s?si=9DhA1EdbfAngGZEN'>Video Tes Model</a>
 </p>
 
 
@@ -24,3 +25,4 @@ Gambar di atas menunjukkan hasil pengujian model pada teks uji untuk mengevaluas
     Catatan: Proyek ini dibuat untuk tujuan pembelajaran dan portofolio. Selamat bersenang-senang!
   </i>
 </P>
+
