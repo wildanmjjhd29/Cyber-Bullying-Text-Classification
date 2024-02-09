@@ -1,6 +1,18 @@
 # Cyber Bullying Text Classification
-
-Selamat datang di proyek klasifikasi teks cyber bullying! Proyek ini akan menggunakan teknik deep learning untuk membedakan antara teks yang mengandung cyber bullying dan yang tidak. Mari kita mulai dengan mengidentifikasi dan menggolongkan teks secara otomatis! 🚀😊
+<table>
+<tr>
+  <td>
+    <img src="https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2022/11/31033006/Waspada-Ini-Dampak-Cyberbullying-terhadap-Kesehatan-Mental-.jpg.webp", width='1000px'>
+  </td>
+  <td>
+    <p>
+      Selamat datang di proyek klasifikasi teks cyber bullying! Proyek ini akan menggunakan teknik deep learning 
+      untuk membedakan antara teks yang mengandung cyber bullying dan yang     
+      tidak. Mari kita mulai dengan mengidentifikasi dan menggolongkan teks secara otomatis!
+   </p>
+  </td>
+</tr>
+</table>
 
 ## Plot Model
 <p>
@@ -22,7 +34,7 @@ Gambar di atas menunjukkan hasil pengujian model pada teks uji untuk mengevaluas
 
 <P align='center'>
   <i>
-    Catatan: Proyek ini dibuat untuk tujuan pembelajaran dan portofolio. Selamat bersenang-senang!
+    Follow Me
   </i>
 </P>
 
